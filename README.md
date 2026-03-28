@@ -16,7 +16,7 @@ to assist teams in adopting Codespaces. Here is a list of the features in this r
 
 ## How to make the GitHub repository private
 
-To make this repository private, do this in the GitHub web UI:
+To make this repository private, follow these steps in the GitHub web UI:
 
 1. Open the repository on GitHub.
 2. Click the **Settings** tab near the top of the repository page.
