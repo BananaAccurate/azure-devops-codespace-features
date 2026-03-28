@@ -1,9 +1,9 @@
 # Codespace Features
 
-> This repository is intended to be kept private for internal use only.
-
 This is a repository of [devcontainer features](https://containers.dev/implementors/features/)
 to assist teams in adopting Codespaces. Here is a list of the features in this repository:
+
+> This repository is intended to be kept private for internal use only.
 
 | Feature | Description |
 | ------- | ----------- |
