@@ -1,6 +1,6 @@
 # Codespace Features
 
-> Intended to be a private repository for internal use only.
+> This repository is intended to be kept private for internal use only.
 
 This is a repository of [devcontainer features](https://containers.dev/implementors/features/)
 to assist teams in adopting Codespaces. Here is a list of the features in this repository:
@@ -16,7 +16,7 @@ to assist teams in adopting Codespaces. Here is a list of the features in this r
 
 ## How to make the GitHub repository private
 
-If you want the GitHub repository itself to be private, do this in the GitHub web UI:
+To make this repository private, do this in the GitHub web UI:
 
 1. Open the repository on GitHub.
 2. Click the **Settings** tab near the top of the repository page.
