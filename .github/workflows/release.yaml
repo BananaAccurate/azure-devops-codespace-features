@@ -1,4 +1,4 @@
-name: "Release dev container features & Generate Documentation"
+name: "Generate dev container feature documentation"
 on:
   workflow_dispatch:
 
@@ -9,15 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      packages: write
       pull-requests: write
     steps:
       - uses: actions/checkout@v6
 
-      - name: "Publish Features"
+      - name: "Generate Feature Documentation"
         uses: devcontainers/action@v1
         with:
-          publish-features: "true"
+          publish-features: "false"
           base-path-to-features: "./src"
           generate-docs: "true"
           
